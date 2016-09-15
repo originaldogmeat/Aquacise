@@ -4,7 +4,11 @@ email: aquaciseswimming@gmail.com
 description: >
   Aquacise Lessons !
 baseurl: ""
+<<<<<<< HEAD
 url: "http://originaldogmeat.github.io/aquacise"
+=======
+url: "https://originaldogmeat.github.io/Aquacise"
+>>>>>>> origin/master
 twitter_username: 
 github_username:  originaldogmeat
 # Build Settings
